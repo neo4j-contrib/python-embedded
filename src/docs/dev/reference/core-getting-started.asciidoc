@@ -12,7 +12,7 @@ classifier=test-sources
 
 === Creating a database, with configuration ===
 
-Please see <<embedded-configuration>> for what options you can use here.
+Please see http://docs.neo4j.org/chunked/{neo4j-version}/embedded-configuration.html[Neo4j Configuration] for what options you can use here.
 
 [snippet,python]
 ----

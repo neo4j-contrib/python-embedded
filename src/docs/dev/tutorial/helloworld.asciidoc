@@ -1,6 +1,5 @@
 [[python-embedded-tutorial-helloworld]]
-Hello, world!
-=============
+= Hello, world! =
 
 Here is a simple example to get you started.
 

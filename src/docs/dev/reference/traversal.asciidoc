@@ -1,10 +1,9 @@
 [[python-embedded-reference-traversal]]
-Traversals
-==========
+= Traversals =
 
 [WARNING]
 Traversal support in neo4j-embedded for python is _deprecated_ as of Neo4j 1.7 GA. 
-Please see <<python-embedded-reference-cypher>> or the core API instead.
+Please see <<python-embedded-reference-cypher,Cypher>> or the core API instead.
 This is done because the traversal framework requires a very tight coupling between the JVM and python.
 To keep improving performance, we need to break that coupling.
 

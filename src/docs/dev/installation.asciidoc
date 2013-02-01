@@ -1,8 +1,7 @@
 [[python-embedded-installation]]
-Installation
-============
+= Installation =
 
-NOTE: The Neo4j database itself (from the <<editions,Community Edition>>) is included in the neo4j-embedded distribution.
+NOTE: The Neo4j database itself (from the http://docs.neo4j.org/chunked/{neo4j-version}/deployment-installation.html#editions[Community Edition]) is included in the neo4j-embedded distribution.
 
 == Installation on OSX/Linux ==
 
@@ -27,7 +26,7 @@ sudo apt-get install python-jpype
 
 Then, make sure the +JAVA_HOME+ environment variable is set to your 'jre' or 'jdk' folder, so that JPype can find the JVM.
 
-NOTE: Installation can be problematic on OSX. See the following Stack Overflow discussion for help: http://stackoverflow.com/questions/8525193/cannot-install-jpype-on-os-x-lion-to-use-with-neo4j
+NOTE: Installation can be problematic on OSX. See the following Stack Overflow discussion for help: http://stackoverflow.com/questions/8525193/cannot-install-jpype-on-os-x-lion-to-use-with-neo4j and this blog post may be of help as well: http://blog.y3xz.com/blog/2011/04/29/installing-jpype-on-mac-os-x/
 
 
 === Installing neo4j-embedded ===
@@ -71,7 +70,7 @@ Then, make sure the +JAVA_HOME+ environment variable is set to your 'jre' or 'jd
 There is a description of how to set environment variables in <<python-embedded-installation-windows-dlls>>.
 
 NOTE: There may be DLL files missing from your system that are required by JPype.
-  See <<python-embedded-installation-windows-dlls>> for instructions for how to fix this.
+  See <<python-embedded-installation-windows-dlls,DLLs>> for instructions for how to fix this.
 
 === Installing neo4j-embedded ===
 

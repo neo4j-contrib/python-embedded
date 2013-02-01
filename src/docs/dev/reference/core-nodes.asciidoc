@@ -2,7 +2,7 @@
 == Nodes ==
 
 This describes operations that are specific to node objects.
-For documentation on how to handle properties on both relationships and nodes, see <<python-embedded-core-properties>>.
+For documentation on how to handle properties on both relationships and nodes, see <<python-embedded-core-properties,properties>>.
 
 === Creating a node ===
 
@@ -44,7 +44,7 @@ tag=deleteNode
 classifier=test-sources
 ----
 
-TIP: See also <<transactions-delete>>.
+TIP: See also http://docs.neo4j.org/chunked/{neo4j-version}/transactions-delete.html[Neo4j Delete Semantics].
 
 === Removing a node by id ===
 
@@ -58,7 +58,7 @@ classifier=test-sources
 
 === Accessing relationships from a node ===
 
-For details on what you can do with the relationship objects, see <<python-embedded-core-relationships>>.
+For details on what you can do with the relationship objects, see <<python-embedded-core-relationships,relationships>>.
 
 [snippet,python]
 ----

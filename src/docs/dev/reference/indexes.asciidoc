@@ -1,6 +1,5 @@
 [[python-embedded-reference-indexes]]
-Indexes
-=======
+= Indexes =
 
 In order to rapidly find nodes or relationship based on properties, Neo4j supports indexing. 
 This is commonly used to find start nodes for <<python-embedded-reference-traversal,traversals>>.

@@ -1,6 +1,5 @@
 [[python-embedded-reference-core]]
-Core API
-========
+= Core API =
 
 This section describes how get get up and running, and how to do basic operations.
 

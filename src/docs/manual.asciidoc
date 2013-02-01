@@ -1,0 +1,12 @@
+= Embedded Neo4j Python Bindings Documentation v{neo4j-version} =
+
+This describes _neo4j-embedded_, a Python library that lets you use the embedded Neo4j database in Python.
+
+:leveloffset: 1
+
+include::dev/tutorial.asciidoc[]
+
+:leveloffset: 1
+
+include::dev/index.asciidoc[]
+

@@ -1,9 +1,8 @@
 [[python-embedded-reference-cypher]]
-Cypher Queries
-==============
+= Cypher Queries =
 
 You can use the Cypher query language from neo4j-embedded. 
-Read more about cypher syntax and cool stuff you can with it here: <<cypher-query-lang>>.
+Read more about cypher syntax and cool stuff you can with it here: http://docs.neo4j.org/chunked/{neo4j-version}/cypher-query-lang.html[Cypher Reference].
 
 == Querying and reading the result ==
 
@@ -59,7 +58,7 @@ classifier=test-sources
 
 === Parameterized queries ===
 
-Cypher supports parameterized queries, see <<cypher-parameters>>. 
+Cypher supports parameterized queries, see http://docs.neo4j.org/chunked/{neo4j-version}/cypher-parameters.html[Cypher Parameters]. 
 This is how you use them in neo4j-embedded.
 
 [snippet,python]

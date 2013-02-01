@@ -1,6 +1,5 @@
 [[tutorials-python-embedded]]
-Using Neo4j embedded in Python applications
-===========================================
+= Using Neo4j embedded in Python applications =
 
 For instructions on how to install the Python Neo4j driver, see <<python-embedded-installation>>.
 

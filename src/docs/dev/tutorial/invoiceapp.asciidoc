@@ -1,8 +1,7 @@
 [[python-embedded-tutorial-invoiceapp]]
-A sample app using cypher and indexes
-=====================================
+= A sample app using cypher and indexes =
 
-For detailed documentation on the concepts used here, see <<python-embedded-reference-indexes>> and <<python-embedded-reference-cypher>>.
+For detailed documentation on the concepts used here, see <<python-embedded-reference-indexes, indexes>> and <<python-embedded-reference-cypher,Cypher>>.
 
 This example shows you how to get started building something like a simple invoice tracking application with Neo4j.
 
