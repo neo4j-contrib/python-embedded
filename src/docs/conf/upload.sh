@@ -26,7 +26,7 @@ else
 	fi
 fi
 DOCS_SERVER='neo@static.neo4j.org'
-ROOTPATHDOCS='/var/www/docs.neo4j.org/python-embedded'
+ROOTPATHDOCS='/var/www/docs.neo4j.org/drivers/python-embedded'
 
 echo "VERSION = $VERSION"
 echo "SYMLINKVERSION = $SYMLINKVERSION"
