@@ -2,6 +2,8 @@
 
 This describes _neo4j-embedded_, a Python library that lets you use the embedded Neo4j database in Python.
 
+NOTE: The version found at PyPI might not be updated. To get a fresh version, you can build it yourself.
+
 :leveloffset: 1
 
 include::dev/tutorial.asciidoc[]
