@@ -1,6 +1,8 @@
 Python bindings for embedded Neo4j
 ==================================
 
+**Note**: This project is no longer maintained. The approach with JPype was not workable. Please have a look at some of the alternatives available at http://neo4j.com/developer/python/
+
 These are Python bindings for the embedded Neo4j Graph Database.
 
 Prerequisites
